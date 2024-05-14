@@ -1,0 +1,12 @@
+#countdown {
+    font-size: 50px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 50px;
+    justify-content: center;
+    color: blue;
+    border: 100px;
+    cursor: pointer;
+    text-shadow: 10px;
+    
+}
